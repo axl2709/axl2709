@@ -26,16 +26,18 @@ I'm a beginner developer focused on learning the fundamentals of software develo
   <img src="https://skillicons.dev/icons?i=css" height="32" alt="CSS" />
 </p>
 
-**Databases**
+**Databases & Frameworks**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" height="32" alt="MySQL" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite" height="32" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="32" alt=".NET" />&nbsp;&nbsp;
 </p>
 
 **Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=git" height="32" alt="Git" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=notion" height="32" alt="Notion" />&nbsp;&nbsp;
 </p>
 
 ---
