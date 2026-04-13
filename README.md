@@ -49,14 +49,14 @@ I'm a beginner developer focused on learning the fundamentals of software develo
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=axel2709&hide_border=true&background=0a0a0b&stroke=1e1e24&ring=e8ff47&fire=e8ff47&currStreakLabel=e8ff47&sideLabels=7c7b8a&currStreakNum=f0eff4&sideNums=f0eff4&dates=7c7b8a" width="420" alt="Streak Stats" />
 </div>
----
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=axel2709&bg_color=0a0a0b&color=FFFFFF&line=e8ff47&point=7c7b8a&area=true&area_color=111114&hide_border=true&custom_title=Contributions" width="95%" alt="Activity Graph" />
-</div>
 
----
 
 <div align="center">
   <sub>Learning by doing · One commit at a time</sub>
 </div>
+
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
