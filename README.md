@@ -41,8 +41,14 @@ I'm a beginner developer focused on learning the fundamentals of software develo
 </p>
 
 ---
+### Stats
 
-
+<div align="center">
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=axel2709&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=FFFFFF&text_color=7c7b8a&icon_color=e8ff47&ring_color=e8ff47&include_all_commits=true&hide_title=false&hide_rank=true" width="420" alt="GitHub Stats" />
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=axel2709&hide_border=true&bg_color=0a0a0b&title_color=FFFFFF&text_color=7c7b8a&langs_count=6&layout=compact&card_width=320" width="340" alt="Top Languages" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=axel2709&hide_border=true&background=0a0a0b&stroke=1e1e24&ring=e8ff47&fire=e8ff47&currStreakLabel=e8ff47&sideLabels=7c7b8a&currStreakNum=f0eff4&sideNums=f0eff4&dates=7c7b8a" width="420" alt="Streak Stats" />
+</div>
 
 ---
 
