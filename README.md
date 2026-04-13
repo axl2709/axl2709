@@ -36,7 +36,6 @@ I'm a beginner developer focused on learning the fundamentals of software develo
 <p>
   <img src="https://skillicons.dev/icons?i=git" height="32" alt="Git" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VS Code" />
 </p>
 
 ---
