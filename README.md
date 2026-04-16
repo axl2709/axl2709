@@ -45,27 +45,25 @@ I'm a beginner developer focused on learning the fundamentals of software develo
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=axel2709&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=a7f3d0&icon_color=22c55e&ring_color=22c55e&hide_rank=true"
-    width="420"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=axel2709&show_icons=true&hide_border=true&hide_rank=true&bg_color=0d0d0d&title_color=ef4444&text_color=fca5a5&icon_color=ef4444&line_height=24&card_width=380"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel2709&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=a7f3d0&langs_count=6&layout=compact&card_width=320"
-    width="340"
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel2709&hide_border=true&bg_color=0d0d0d&title_color=ef4444&text_color=fca5a5&layout=compact&card_width=290&langs_count=5"
     alt="Top Languages"
   />
-  <br>
+</div>
+
+<div align="center">
   <img
-    src="https://streak-stats.demolab.com?user=axel2709&hide_border=true&background=0d1117&stroke=14532d&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=a7f3d0&currStreakNum=f0fdf4&sideNums=f0fdf4&dates=86efac"
-    width="420"
+    height="155"
+    src="https://streak-stats.demolab.com?user=axel2709&hide_border=true&background=0d0d0d&stroke=7f1d1d&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=fca5a5&currStreakNum=fff1f2&sideNums=fff1f2&dates=fca5a5&card_width=420&card_height=170"
     alt="Streak Stats"
   />
 </div>
 
-<br>
-<div align="center">
-  <sub>Learning by doing · One commit at a time</sub>
-</div>
 
 	
 <div align="center">
