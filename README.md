@@ -11,7 +11,7 @@ Learning by doing · One commit at a time
 
 ### About
 
-I'm a beginner developer focused on learning the fundamentals of software development. Currently studying **C#**, **Java**, **HTML**, **JavaScript**, **CSS**, and **databases** — building small projects to practice and grow step by step.
+I'm a beginner developer focused on learning the fundamentals of software development. Currently studying **C#**, **Java**, **HTML**, **JavaScript**, **CSS**, and **databases** - building small projects to practice and grow step by step.
 
 ---
 
