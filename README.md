@@ -46,20 +46,19 @@ I'm a beginner developer focused on learning the fundamentals of software develo
 <div align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=axel2709&show_icons=true&hide_border=true&hide_rank=true&bg_color=0d0d0d&title_color=ef4444&text_color=fca5a5&icon_color=ef4444&line_height=24&card_width=380"
+    src="https://github-readme-stats.vercel.app/api?username=axl2709&show_icons=true&hide_border=true&hide_rank=true&bg_color=0d0d0d&title_color=ef4444&text_color=fca5a5&icon_color=ef4444&line_height=24&card_width=380"
     alt="GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=axel2709&hide_border=true&bg_color=0d0d0d&title_color=ef4444&text_color=fca5a5&layout=compact&card_width=290&langs_count=5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=axl2709&hide_border=true&bg_color=0d0d0d&title_color=ef4444&text_color=fca5a5&layout=compact&card_width=290&langs_count=5"
     alt="Top Languages"
   />
 </div>
-
 <div align="center">
   <img
     height="155"
-    src="https://streak-stats.demolab.com?user=axel2709&hide_border=true&background=0d0d0d&stroke=7f1d1d&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=fca5a5&currStreakNum=fff1f2&sideNums=fff1f2&dates=fca5a5&card_width=420&card_height=170"
+    src="https://streak-stats.demolab.com?user=axl2709&hide_border=true&background=0d0d0d&stroke=7f1d1d&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&sideLabels=fca5a5&currStreakNum=fff1f2&sideNums=fff1f2&dates=fca5a5&card_width=420&card_height=170"
     alt="Streak Stats"
   />
 </div>
